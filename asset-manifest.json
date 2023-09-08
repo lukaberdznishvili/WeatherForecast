@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/http//lukaberdznishvili.github.io/WeatherForecast/static/css/main.3da8bbad.css",
+    "main.js": "/http//lukaberdznishvili.github.io/WeatherForecast/static/js/main.6de9eabb.js",
+    "static/media/sunset.jpg": "/http//lukaberdznishvili.github.io/WeatherForecast/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/http//lukaberdznishvili.github.io/WeatherForecast/index.html",
+    "main.3da8bbad.css.map": "/http//lukaberdznishvili.github.io/WeatherForecast/static/css/main.3da8bbad.css.map",
+    "main.6de9eabb.js.map": "/http//lukaberdznishvili.github.io/WeatherForecast/static/js/main.6de9eabb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da8bbad.css",
+    "static/js/main.6de9eabb.js"
+  ]
+}
