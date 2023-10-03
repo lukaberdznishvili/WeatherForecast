@@ -18,9 +18,7 @@ const searchLocation = (event)=> {
       console.log(response.data)
     })
     setLocation('')
-  }
-  
-  
+  } 
 }
 
   return (
